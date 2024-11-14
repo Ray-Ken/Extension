@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Aniyomi: DramaCool",
+        "pkg": "eu.kanade.tachiyomi.animeextension.en.dramacool",
+        "apk": "aniyomi-en.dramacool-v14.17.apk",
+        "lang": "en",
+        "code": 17,
+        "version": "14.17",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "DramaCool",
+                "lang": "en",
+                "id": "6149203457088436256",
+                "baseUrl": "https://dramacool.bg"
+            }
+        ]
+    },
+    {
+        "name": "Aniyomi: FlixTor",
+        "pkg": "eu.kanade.tachiyomi.animeextension.en.flixtor",
+        "apk": "aniyomi-en.flixtor-v14.12.apk",
+        "lang": "en",
+        "code": 12,
+        "version": "14.12",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "FlixTor",
+                "lang": "en",
+                "id": "5648392090234671234",
+                "baseUrl": "https://flixtor.to"
+            }
+        ]
+    },
+    {
+        "name": "Aniyomi: WatchSeriesHD",
+        "pkg": "eu.kanade.tachiyomi.animeextension.en.watchserieshd",
+        "apk": "aniyomi-en.watchserieshd-v14.8.apk",
+        "lang": "en",
+        "code": 8,
+        "version": "14.8",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "WatchSeriesHD",
+                "lang": "en",
+                "id": "4592038456789240123",
+                "baseUrl": "https://watchserieshd.ru"
+            }
+        ]
+    },
+    {
+        "name": "Aniyomi: KissAsian",
+        "pkg": "eu.kanade.tachiyomi.animeextension.en.kissasian",
+        "apk": "aniyomi-en.kissasian-v14.21.apk",
+        "lang": "en",
+        "code": 21,
+        "version": "14.21",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "KissAsian",
+                "lang": "en",
+                "id": "2358907245809123441",
+                "baseUrl": "https://kissasian.li"
+            }
+        ]
+    },
+    {
+        "name": "Aniyomi: MovieNight",
+        "pkg": "eu.kanade.tachiyomi.animeextension.en.movienight",
+        "apk": "aniyomi-en.movienight-v14.5.apk",
+        "lang": "en",
+        "code": 5,
+        "version": "14.5",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "MovieNight",
+                "lang": "en",
+                "id": "7945610823497612380",
+                "baseUrl": "https://movienight.to"
+            }
+        ]
+    }
+]
