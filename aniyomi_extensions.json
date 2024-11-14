@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Aniyomi: AnimeOnsen",
+        "pkg": "eu.kanade.tachiyomi.animeextension.all.animeonsen",
+        "apk": "aniyomi-all.animeonsen-v14.7.apk",
+        "lang": "all",
+        "code": 7,
+        "version": "14.7",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "AnimeOnsen",
+                "lang": "all",
+                "id": "8542735178285060053",
+                "baseUrl": "https://animeonsen.xyz"
+            }
+        ]
+    },
+    {
+        "name": "Aniyomi: DramaCool",
+        "pkg": "eu.kanade.tachiyomi.animeextension.en.dramacool",
+        "apk": "aniyomi-en.dramacool-v14.17.apk",
+        "lang": "en",
+        "code": 17,
+        "version": "14.17",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "DramaCool",
+                "lang": "en",
+                "id": "6149203457088436256",
+                "baseUrl": "https://dramacool.bg"
+            }
+        ]
+    }
+]
